@@ -1,4 +1,4 @@
-#Zadanie Testowe UNITY-T GROUP
+# Zadanie Testowe UNITY-T GROUP
 
 Stworzylem modele odpowiednich zwierząt oraz ich tryby jedzenia czy posiadanie futra
 
@@ -16,5 +16,12 @@ nastepnie wchodzimy pod adres
 ```
 loclhost:8000
 ```
-
 i powinnismy zobaczyc aplikacje
+
+# Zadanie 2 SQL
+W folderze **Zadanie 2 SQL** znajduje sie rozwiazanie zadania 2 w którym musialem stworzyć baze i proste zapytania.
+
+W pliku **baza.sql** znajduje sie cała baza wraz z przykladowymi danymi.
+W plikua **select.sql** znajduje sie select z podpuktu 2.
+W pliku **view.sql** znajduje sie widok z podunktu 3.
+
